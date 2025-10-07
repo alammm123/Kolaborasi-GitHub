@@ -2,4 +2,4 @@ Daftar Kontribusi:
 
 -[Sudah Kontribusi] Anggota 1 menambahkan satu baris teks di sini.
 
--[ ] Anggota 2 menambahkan satu baris teks di sini.
+-[Sudah Kontribusi] Anggota 2 menambahkan satu baris teks di sini.

@@ -9,3 +9,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 -Abdus Salam Azzahra
+-Muhammad Saddam Firdaus 
